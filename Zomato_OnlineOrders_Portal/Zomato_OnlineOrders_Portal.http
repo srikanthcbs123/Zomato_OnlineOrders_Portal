@@ -1,0 +1,6 @@
+@Zomato_OnlineOrders_Portal_HostAddress = http://localhost:5076
+
+GET {{Zomato_OnlineOrders_Portal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
